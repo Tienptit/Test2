@@ -1,1 +1,1 @@
-1.0.0.1;http://download1047.mediafire.com/ubt7y07094sg/ku36n5m7syymvk0/Setup.msi;
+1.0.0.1;download1047.mediafire.com/334krjbeq9kg/ku36n5m7syymvk0/Setup.msi;
